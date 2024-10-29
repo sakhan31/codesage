@@ -1,0 +1,6 @@
+streamlit==1.38.0
+langgraph==0.2.39
+langchain-community==0.3.3
+langchain-databricks==0.1.1
+langchain-openai==0.2.3
+
