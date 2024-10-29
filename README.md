@@ -1,3 +1,5 @@
+##CodeSage
+
 ### Inspiration
 The motivation behind creating CodeSage stems from the challenges developers often face when navigating unfamiliar codebases or programming languages, especially in large-scale migration projects. New developers or those switching between languages often struggle with understanding existing code structures, tracking files, and rewriting code in a different language. CodeSage was developed to bridge this gap, offering a solution that not only simplifies code exploration and comprehension but also supports seamless language migration, ultimately enhancing productivity and reducing onboarding time for developers.
 
@@ -15,3 +17,4 @@ We built it using:
 1. Local Code Bases
 2. Azure Devops Repository
 
+![image](https://github.com/user-attachments/assets/9058dbfb-d0fa-44c8-97f6-e2dd88874b77)
